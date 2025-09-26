@@ -1,1 +1,5 @@
+# Enviroment variables
 .env
+
+# Virtual enviroment
+spatial/
